@@ -20,6 +20,7 @@ namespace ProyectoReticula {
 			InitializeComponent();
 			//
 			//TODO: Add the constructor code here
+		        //brauliocaradepene
 			//
 		}
 
